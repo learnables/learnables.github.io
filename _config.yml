@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -43,16 +43,14 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: http://learnables.net
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Meta-Learning
+    web_url: http://learn2learn.net
+    image_url: https://raw.githubusercontent.com/learnables/learn2learn/gh-pages/assets/img/l2l-full.png
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Reinforcement Learning
+    web_url: http://cherry-rl.net
+    image_url: https://camo.githubusercontent.com/f14389834d5abd5bf124d62f55843cbc508b6f54/687474703a2f2f6368657272792d726c2e6e65742f6173736574732f696d672f6368657272795f66756c6c2e706e67
