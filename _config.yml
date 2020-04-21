@@ -49,8 +49,8 @@ social_media:
 topics:
   - name: Meta-Learning
     web_url: http://learn2learn.net
-    image_url: https://raw.githubusercontent.com/learnables/learn2learn/gh-pages/assets/img/l2l-full.png
+    image_url: https://raw.githubusercontent.com/learnables/learn2learn/master/docs/source/assets/img/learn2learn.png
 
   - name: Reinforcement Learning
     web_url: http://cherry-rl.net
-    image_url: https://camo.githubusercontent.com/f14389834d5abd5bf124d62f55843cbc508b6f54/687474703a2f2f6368657272792d726c2e6e65742f6173736574732f696d672f6368657272795f66756c6c2e706e67
+    image_url: https://raw.githubusercontent.com/learnables/cherry/master/docs/source/assets/img/cherry.png
